@@ -1,0 +1,41 @@
+body {
+    background-image: url(https://img.freepik.com/vetores-gratis/fundo-ondulado-escuro_23-2148402809.jpg?size=626&ext=jpg);
+    background-size: auto 100vh;
+    font-family: arial;
+    heigth: 100vh;
+    
+  }
+  
+  .menu {
+    background-color: white;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  } 
+  
+  .menu li {
+    list-style:none;
+  }
+  
+  a {
+    color: teal;
+    text-decoration:none;
+  }
+  
+  a:hover{
+    text-decoration:underline;
+  }
+  
+  .Site-subtitle,
+  .Site-title {
+    color: whitesmoke;
+    text-align: center;
+  }
+  
+  .Site-subtitle{
+    font-style: italic;
+  }
+  
+  
